@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Páginaweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06E3F1C9684F43219640DA72F0D58401 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC8C3667C3AA4D5192BFFA3BDFA8D4F2 }}
           package: .
